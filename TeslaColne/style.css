@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero
+{
+    height: 100vh;
+    background-image: url("./images/model-s.jpg");
+    background-size: cover;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.upper
+{
+    margin-top:  5rem;
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+
+}
+.lower
+{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 4rem;
+}
+.btn1
+{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    width: 10rem;
+    border-radius :20px;
+    font-size: 16px;
+}
+.btn2
+{
+    background-color:black;
+    color:white;
+    padding: 1rem;
+    margin: 1rem;
+    width: 15rem;
+    border-radius :20px;
+    font-size: 16px;
+}
+h2
+{
+font-size: 40px;
+}
+.hero1
+{
+    height: 100vh;
+    background-image: url("./images/model-y.jpg");
+    background-size: cover;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.hero2
+{
+    height: 100vh;
+    background-image: url("./images/model-3.jpg");
+    background-size: cover;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.hero3
+{
+    height: 100vh;
+    background-image: url("./images/model-x.jpg");
+    background-size: cover;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.hero4
+{
+    height: 100vh;
+    background-image: url("./images/solar-roof.jpg");
+    background-size: cover;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.hero5
+{
+    height: 100vh;
+    background-image: url("./images/solar-panel.jpg");
+    background-size: cover;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.hero6
+{
+    height: 100vh;
+    background-image: url("./images/accessories.jpg");
+    background-size: cover;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    position: fixed;
+    top: o;
+    left: 0;
+    right: 0;
+}
+a
+{
+color: black;
+text-decoration: none;
+margin-left: 1rem;
+font-size: 20px;
+font-weight: 600;
+}
